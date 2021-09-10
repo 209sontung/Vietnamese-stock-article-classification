@@ -1,1 +1,1 @@
-# Stock-sentiment-classificaiton
+# Stock sentiment classificaiton
