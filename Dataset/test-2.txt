@@ -1,0 +1,1197 @@
+test_0
+Yeah1 (YEG): Chủ tịch Nguyễn Ảnh Nhượng Tống đã bán ra 250.000 cổ phiếu, giảm sở hữu xuống còn 24,72% vốn
+
+test_1
+Tiết giảm chi phí lãi vay, Petrosetco (PSD) báo lãi quý 1/2021 tăng 60% so với cùng kỳ
+
+test_2
+Doanh nghiệp niêm yết sắp huy động gần 45.000 tỷ đồng qua phát hành tăng vốn, Vietnam Airlines và HAGL Agrico đầu bảng
+
+test_3
+Một cá nhân bị phạt nặng vì dùng 35 tài khoản thao túng giá cổ phiếu TAR
+
+test_4
+ĐHĐCĐ GAS: Vấp phải đối thủ mảng khí LNG, đặt kế hoạch lợi nhuận thấp nhất từ năm 2012 dù giá dầu tăng
+
+test_5
+Doanh nhân Thái Vân Linh: “Hiểu mình để độc lập đưa ra quyết định đầu tư”
+
+test_6
+Hồi phục tốt, VnIndex chỉ còn giảm 9 điểm
+
+test_7
+Quý 1/2021, TCBS lãi 843 tỷ đồng, ra mắt nền tảng đầu tư cộng đồng iCopy
+
+test_8
+KIS đẩy mạnh tư vấn phát hành trái phiếu cho An Phát Holdings
+
+test_9
+Nhiều SPAC đang đói mục tiêu, cơ hội rộng mở cho khả năng VinFast IPO thành công tại Mỹ?
+
+test_10
+Viettel Construction (CTR) trình cổ đông phương án chuyển sàn HoSE, chia cổ tức năm 2020 với tỷ lệ 39,5%
+
+test_11
+PSE: Quý 1 lãi 10,5 tỷ đồng, vượt 31% kế hoạch cả năm 2021
+
+test_12
+CEO, DLG, NSH, HQC, TXM, SVN, CKV, SDP, VFS, AMS: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_13
+Thấy gì qua chiến lược cổ tức của doanh nghiệp trên sàn chứng khoán?
+
+test_14
+ĐHCĐ Vicostone: "Tỷ suất lợi nhuận của chúng ta ngay cả các công ty trên thế giới cũng phải thèm khát"
+
+test_15
+Pharbaco (PBC): Quý 1 lãi 14 tỷ đồng, tăng 175% so với cùng kỳ
+
+test_16
+Lịch sự kiện và tin vắn chứng khoán ngày 16/4
+
+test_17
+BVSC: “Khối ngoại không còn tác động lớn, nhà đầu tư nội là động lực đưa thị trường đi lên tầm cao mới”
+
+test_18
+SCI E&C đạt lợi nhuận gấp 6 lần cùng kỳ quý 1, hoàn thành 70% kế hoạch 2021
+
+test_19
+Trái với sự thăng hoa của thị trường, không ít Bluechips ngược dòng giảm sâu từ đầu năm 2021
+
+test_20
+Savimex (SAV): Năm 2021 đặt mục tiêu lãi 48 tỷ đồng – đi ngang so với 2020
+
+test_21
+Thủy điện Sê San 4A (S4A): Quý 1 lãi 16 tỷ đồng, cao gấp 8 lần cùng kỳ 2020
+
+test_22
+Minh Phú (MPC): Năm 2021 đặt mục tiêu lãi 1.400 tỷ đồng cao gấp đôi 2020
+
+test_23
+Hưởng lợi từ giá thép tăng, HMC lãi cao kỷ lục trong quý 1
+
+test_24
+TVC: EPS quý 1/2021 công ty mẹ đạt 1.500 đồng/ cổ phiếu, bằng cả năm 2020
+
+test_25
+Sông Ba (SBA): Quý 1 lãi 29 tỷ đồng, cao gấp hơn 4 lần cùng kỳ
+
+test_26
+Tư vấn xây dựng điện 2 (TV2): Kế hoạch lãi trước thuế năm 2021 đi ngang với 327 tỷ đồng
+
+test_27
+DLG tăng 77% từ đầu tháng 4, một cá nhân vẫn mua vào 7,7 triệu cổ phiếu
+
+test_28
+Thủy điện A Vương (AVC): Quý 1 lãi 88 tỷ đồng hoàn thành 83% mục tiêu cả năm 2021
+
+test_29
+HQC tăng 150% từ đầu năm, một lãnh đạo Địa ốc Hoàng Quân muốn bán bớt 3,5 triệu cổ phiếu để giải quyết nhu cầu tài chính
+
+test_30
+HOSE áp dụng cải tiến về kỹ thuật vận hành, tình trạng quá tải đã giảm bớt
+
+test_31
+Cổ phiếu VIC lập đỉnh mới, vốn hóa VinGroup bằng tổng BIDV, Vietinbank và Techcombank cộng lại
+
+test_32
+Chứng khoán APEC ghi nhận kết quả kinh doanh ấn tượng trong quý 1/2021
+
+test_33
+Phiên 15/4: Khối ngoại tiếp tục bán ròng gần 900 tỷ đồng, tập trung “xả” Bluechips
+
+test_34
+An Thịnh (ATB): Lỗ lớn 66 tỷ đồng ngay quý 1
+
+test_35
+Xi măng Bỉm Sơn (BCC) bị truy thu và phạt hơn 3,4 tỷ đồng tiền thuế
+
+test_36
+Phát Đạt (PDR) tiếp tục chia cổ tức đợt 3 với tỷ lệ 11,7%
+
+test_37
+Bamboo Airways tiếp tục tăng vốn lên 12.500 tỷ đồng, vốn hóa dự kiến 3,25 tỷ USD theo định giá của Chủ tịch Trịnh Văn Quyết
+
+test_38
+Pyn Elite vừa bán bớt 2 triệu cổ phiếu CEO Group
+
+test_39
+Chứng khoán HDBS dự kiến tăng vốn điều lệ lên 1.000 tỷ đồng, đặt mục tiêu lợi nhuận tăng trưởng hơn 200%
+
+test_40
+Lịch chốt quyền nhận cổ tức bằng tiền của 11 doanh nghiệp
+
+test_41
+Cổ phiếu ngân hàng, chứng khoán đồng loạt điều chỉnh, VN-Index mất mốc 1.250 điểm
+
+test_42
+SHB, CII, ABR, HFB, KKC, SVN, SGC, PVL, PPE, PSB: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_43
+Nam Tân Uyên (NTC): Quý 1 lãi 113 tỷ đồng tăng 32% so với cùng kỳ
+
+test_44
+Lịch sự kiện và tin vắn chứng khoán ngày 15/4
+
+test_45
+Tài sản người giàu Việt Nam tăng mạnh, thêm 2 nhân vật tiệm cận danh sách tỷ phú đô la
+
+test_46
+Ai sẽ là Chủ tịch ThaiHoldings?
+
+test_47
+Đầu tư cổ phiếu bất động sản nào trong thời kỳ giá đất tăng “phi mã”?
+
+test_48
+Bamboo Airways cũng muốn IPO tại Mỹ, kỳ vọng định giá 4 tỷ USD
+
+test_49
+Giá thép tăng mạnh, Thủ Đức VnSteel (TDS) báo lãi quý 1 tăng 45% so với cùng kỳ, hoàn thành 80% kế hoạch
+
+test_50
+iShare ETF thay đổi chỉ số tham chiếu, thị trường Việt Nam có thể chỉ còn chiếm 16% danh mục thay vì 28,5% như kỳ vọng cũ
+
+test_51
+VPS giữ vị trí số 1 thị phần môi giới HNX, UPCom và phái sinh trong quý 1/2021
+
+test_52
+Nắm trong tay 10.000 nhân sự, một thành viên của Viettel đang hướng tới nhiều lĩnh vực kinh doanh tiềm năng ngoài viễn thông
+
+test_53
+VnIndex được dự báo lên 1.300-1.400 điểm, tôi có nên vay bố mẹ 500 triệu đồng để đầu tư chứng khoán?
+
+test_54
+Safoco (SAF) chốt quyền trả cổ tức năm 2020 bằng tiền tỷ lệ 30%
+
+test_55
+Doanh thu sụt giảm hơn 1.000 tỷ đồng, Nhiệt điện Phả Lại (PPC) vẫn có lãi quý 1 tăng trưởng so với cùng kỳ 2020
+
+test_56
+Phiên 14/4: Khối ngoại bán ròng hơn 1.000 tỷ đồng, tập trung bán VHM, VNM, CRE
+
+test_57
+Thị trường chứng khoán trong “cơn say” tiền, nhà đầu tư F0 có “tỉnh”?
+
+test_58
+Dự thảo sắp xếp lại TTCK: Chuyển toàn bộ giao dịch cổ phiếu về HoSE từ năm 2025
+
+test_59
+Đảo chiều bất ngờ phiên chiều, VnIndex tăng gần 8 điểm
+
+test_60
+Điện Gia Lai (GEG): Sắp phát hành hơn 32 triệu cổ phần, năm 2021 sẽ tiếp tục M&A các dự án điện gió
+
+test_61
+Halico chỉ lỗ hơn 1 tỷ đồng trong quý 1/2021, doanh thu bán rượu tăng đột biến 34%
+
+test_62
+Ông Trịnh Văn Quyết đăng ký mua 20 triệu cổ phiếu của FLC Faros
+
+test_63
+Vingroup thông tin chính thức về khả năng niêm yết VinFast tại Mỹ, nhắc đến SPAC là một trong các khả năng
+
+test_64
+Tín dụng chảy vào chứng khoán có tháng tăng nóng, hiện dư nợ hơn 45.300 tỷ đồng
+
+test_65
+Bia Sài Gòn - Quảng Ngãi (BSQ): Quý 1 lãi 41 tỷ đồng, cao gấp gần 6 lần cùng kỳ
+
+test_66
+VnDirect (VND) triển khai phương án phát hành 214 triệu cổ phiếu, tăng vốn điều lệ lên gấp đôi
+
+test_67
+VIB, APH, YEG, HDC, IDV, PVC, TNT, PVL, VTO, HAS, DHC, LSS, VSE, TR1, TNS: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_68
+SBT phát hành 1.200 tỷ trái phiếu với Techcom Securities
+
+test_69
+Lịch sự kiện và tin vắn chứng khoán ngày 14/4
+
+test_70
+Hiện tượng của ngành tôm: Công ty kín tiếng xuất khẩu gần 300 triệu USD, EPS 108.000 đồng, lợi nhuận năm 2020 cao hơn cả vua tôm Minh Phú
+
+test_71
+Khát khao viết tiếp câu chuyện của Thế giới Di động, theo đuổi thần tượng Capitaland, nhưng cổ phiếu Cen Land đang bị cả Dragon Capital và VinaCapital bán mạnh kể từ năm 2019
+
+test_72
+AFC Vietnam Fund: "TTCK Việt Nam có tiềm năng tăng trưởng lớn, cổ phiếu ngân hàng xứng đáng được định giá cao hơn"
+
+test_73
+Vĩnh Hoàn (VHC) muốn tăng sở hữu tại phồng tôm Sa Giang lên 77% vốn
+
+test_74
+Lỗ lũy kế vượt vốn điều lệ, cổ phiếu CLG của CotecLand sắp bị hủy niêm yết
+
+test_75
+Nhiệt điện Hải Phòng (HND): Quý 1 bất ngờ báo lỗ 11 tỷ đồng
+
+test_76
+ĐHĐCĐ Chứng khoán FPT (FPTS): Đặt mục tiêu lãi 260 tỷ đồng năm 2021 trên cơ sở VN-Index dao động quanh 1.250-1.300 điểm
+
+test_77
+Thị trường “đỏ lửa”, khối ngoại trở lại mua ròng trong phiên 13/4
+
+test_78
+An Phát Holdings (APH) đăng ký mua thêm 38 triệu cổ phiếu AAA của Nhựa An Phát Xanh
+
+test_79
+Cổ phiếu DLG tăng trần 6 phiên liên tiếp
+
+test_80
+Phiên IPO Visalco: Số lượng đặt mua gấp 3 lần số cổ phần mang ra chào bán
+
+test_81
+Gỗ Trường Thành (TTF): Lợi nhuận giảm sau kiểm toán, bị nghi ngờ khả năng hoạt động liên tục
+
+test_82
+Chuyên gia VinaCapital: Người Việt đổ tiền vào chứng khoán và bất động sản một phần do còn bị hạn chế về kênh đầu tư
+
+test_83
+Thanh khoản thị trường lên hơn 29.000 tỷ đồng, VN-Index giảm điểm bất chấp lực kéo từ nhóm VinGroup
+
+test_84
+FIT, CRE, CII, HBC, APH, CKG, HDC, HAG, AAA, PVC, DHC, BBS, BCP, MIC, TNS, MCF, TJC, NSH, NHP: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_85
+Doanh thu của Siam Brothers Việt Nam tăng mạnh trong quý 1
+
+test_86
+Lịch sự kiện và tin vắn chứng khoán ngày 13/4
+
+test_87
+Quý 1 công ty mẹ cao su Phước Hoà (PHR) lãi 21 tỷ đồng, giảm 85% so với cùng kỳ 2020
+
+test_88
+Tiếp đà hưng phấn, VN-Index hướng tới mốc 1.300 điểm?
+
+test_89
+Thua lỗ gần 1.000 tỷ đồng, bị nghi ngờ khả năng hoạt động, cổ phiếu DLG vẫn tăng trần 7 phiên liên tiếp
+
+test_90
+Thép Tiến Lên (TLH): Lãi lớn ngay quý 1, trình kế hoạch lãi 250 tỷ đồng năm 2021
+
+test_91
+JP Morgan lạc quan vào TTCK Việt Nam, nâng mục tiêu VN-Index lên 1.400 điểm vào cuối năm 2021
+
+test_92
+Bloomberg: VinFast dự kiến IPO tại Mỹ, kỳ vọng định giá đạt tối thiểu 50 tỷ USD sau niêm yết
+
+test_93
+10 ngân hàng họp cổ đông trong 2 ngày
+
+test_94
+Vượt đỉnh cũ đưa giá trị Vingroup lên hơn 19 tỷ USD, tài sản tỷ phú Vượng trên Forbes sắp đạt 10 tỷ USD
+
+test_95
+Lý giải phiên 20.000 tỷ: HOSE đã cải tiến giải pháp kỹ thuật hỗ trợ hệ thống tăng năng lực xử lý lệnh, việc phối hợp với FPT được triển khai song song
+
+test_96
+Đạm Phú Mỹ (DPM) đặt kế hoạch lãi sau thuế năm 2021 giảm gần nửa, về mức 365 tỷ đồng
+
+test_97
+Hà Đô (HDG) tái cấu trúc mảng năng lượng, đặt kế hoạch đi ngang trong năm 2021
+
+test_98
+HAGL vẫn tăng kịch trần dù lỗ lũy kế sau kiểm toán tăng thêm hơn 1.200 tỷ đồng
+
+test_99
+Giá trị khớp lệnh Hose lập kỷ lục 20.000 tỷ, VN-Index tăng mạnh nhất Châu Á phiên 12/4
+
+test_100
+Sonadezi (SNZ) đặt kế hoạch lãi sau thuế trên nghìn tỷ năm 2021
+
+test_101
+Phiên 12/4: Khối ngoại tiếp tục bán ròng, tập trung bán cổ phiếu ngân hàng
+
+test_102
+VnIndex tăng mạnh 21 điểm, thanh khoản sàn HoSE vọt lên 21,5 nghìn tỷ
+
+test_103
+Đầu tư Cao su Đắk Lắk (DRI): Quý 1 báo lãi 16 tỷ đồng trong khi cùng kỳ thua lỗ
+
+test_104
+Nhựa Pha Lê (PLP) lên tiếng giải trình ý kiến ngoại trừ của kiểm toán về khoản đầu tư vào Công ty xây dựng Hạ Long
+
+test_105
+Chứng khoán “đua” tăng vốn, cơ hội nên “chụp" lấy
+
+test_106
+ĐHCĐ Tập đoàn FLC: Đặt mục tiêu lãi gấp 3 lần 2020, đưa Bamboo Airways lên sàn với giá 60 nghìn đồng/cổ vào quý 2/2021
+
+test_107
+Chứng khoán Bản Việt (VCSC) chuẩn bị chốt quyền trả cổ tức 20% bằng tiền
+
+test_108
+SCG lên sàn chứng khoán, tăng gần 40% trong ngày chào sàn
+
+test_109
+OCH tiếp tục có các động thái bán tài sản lớn
+
+test_110
+Báo Nhật: 3 lý do khiến người Việt Nam đổ xô vào chứng khoán và vì sao nhà đầu tư F0 không còn là "gà"?
+
+test_111
+Tiêu điểm xử phạt tuần qua: Rất nhiều cá nhân bị UBCKNN phạt
+
+test_112
+Phó TGĐ VCSC: "Chứng khoán Bản Việt tự tin với kế hoạch năm 2021"
+
+test_113
+Tỷ suất lợi nhuận cao chót vót, 1 công ty tôm giống có EPS 30.000 đồng, định giá cao hơn cả "vua tôm" Minh Phú dù doanh thu chỉ bằng 1/10
+
+test_114
+Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 12-16/4
+
+test_115
+CEO Chứng khoán Pinetree: “Lợi thế công nghệ và tiềm lực tài chính giúp lượng tài khoản mở mới tăng gấp 8 lần”
+
+test_116
+Xu thế dòng tiền: "Chỉnh" thuần túy kỹ thuật, cơ hội tăng vẫn còn
+
+test_117
+Nhà Khang Điền (KDH): Năm 2021 đặt mục tiêu lãi 1.200 tỷ đồng
+
+test_118
+MBS: “Các thông tin vĩ mô trong và ngoài nước đang ủng hộ nhịp tăng của thị trường, VN-Index hướng tới vùng 1.300 điểm”
+
+test_119
+Lịch sự kiện và tin vắn chứng khoán ngày 12/4
+
+test_120
+STC: Quý 1 lãi 2,3 tỷ đồng cao gấp gần 5 lần cùng kỳ 2020
+
+test_121
+Viglacera Hạ Long (VHL): Quý 1 lãi vỏn vẹn 280 triệu đồng – thấp nhất kể từ năm 2012
+
+test_122
+Bầu Thụy âm thầm lọt Top 10 tỷ phú giàu nhất sàn, tiến sát vị trí của bà Phạm Thu Hương
+
+test_123
+Bia Sài Gòn Miền Trung (SMB): Quý 1 lãi 28 tỷ đồng tăng 50% so với cùng kỳ
+
+test_124
+Chọn cạnh tranh thay vì bán lại cho Masan, tương ớt Cholimex tiếp tục sống khỏe khi trả cổ tức 50%, EPS đạt 21.000 đồng
+
+test_125
+Vĩnh Hoàn (VHC) đặt kế hoạch đi lùi, lợi nhuận dự kiến vào mức 700 tỷ đồng
+
+test_126
+VCBS: “Triển vọng vĩ mô lạc quan, VN-Index có thể lên mốc 1.435 điểm trong năm nay”
+
+test_127
+Cổ phiếu DTL ra khỏi diện bị kiểm soát
+
+test_128
+ĐHĐCĐ Chứng khoán BIDV (BSC): Kế hoạch LNTT 180 tỷ đồng, tiếp tục tìm kiếm đối tác chiến lược
+
+test_129
+TGĐ MBS: Thị phần môi giới thời gian qua tương đối “ảo”, ước lợi nhuận quý 1 đạt 125 tỷ đồng
+
+test_130
+PV Power ước lãi 720 tỷ đồng trong quý 1, gấp đôi kế hoạch nhờ thoái vốn PV Machino
+
+test_131
+Ông Đặng Thành Tâm: "Ai mà bỏ KBC sau này ân hận"
+
+test_132
+Liên tục "lướt sóng", nhóm Dragon Capital lại mua thêm 1,2 triệu cổ phiếu HPG trong những ngày đầu tháng 4
+
+test_133
+Một cá nhân bán 16,3 triệu cổ phiếu và không còn là cổ đông lớn của JVC
+
+test_134
+CEO Chứng khoán Bản Việt: Chúng tôi có thể ra khỏi top 5 thị phần môi giới, nhưng tỷ suất lợi nhuận mảng này vẫn cao nhất
+
+test_135
+Yuanta: “Nhóm ngân hàng dẫn dắt, VN-Index hướng đến vùng 1.300 điểm trong tháng 4”
+
+test_136
+ĐHCĐ Cen Land (CRE) bất ngờ tăng kế hoạch kinh doanh năm 2021, mục tiêu trở thành nhà phân phối BĐS lớn của Vinhomes với doanh thu 1 tỷ USD
+
+test_137
+Giám đốc tư vấn đầu tư DCVFM: Khối ngoại không ảnh hưởng quá lớn tới TTCK Việt Nam như một thập kỷ trước, năm 2021 sẽ có thêm 30.000 tỷ cho vay margin
+
+test_138
+Kế hoạch doanh thu 6.000 tỷ của Kinh Bắc, nguồn thu đáng kể sẽ đến từ KCN Nam Sơn Hạp Lĩnh
+
+test_139
+Tổng Giám đốc VCSC - ông Tô Hải: Thị phần môi giới hiện nay có yếu tố ảo, hầu hết CTCK hàng Top đều đang phải cân nhắc
+
+test_140
+ĐHĐCĐ VCSC (VCI): Năm 2021 mảng IB sẽ “bùng nổ” trở lại với tổng quy mô dự kiến 2,6 tỷ USD, quý 1 ước lãi 350 tỷ đồng
+
+test_141
+Khối ngoại mua ròng đột biến hơn 2.300 tỷ đồng trong phiên 9/4
+
+test_142
+FPT, STB, PNJ tăng mạnh, VnIndex chốt phiên cuối tuần giảm nhẹ
+
+test_143
+Cao su Đà Nẵng đặt kế hoạch lãi quý 2 tăng trưởng hơn 40% so với cùng kỳ 2020
+
+test_144
+Bamboo Capital (BCG): Hoàn tất nhà máy điện mặt trời Phù Mỹ 330MW, tổng đầu tư lên đến 6.200 tỷ đồng
+
+test_145
+Đường Quảng Ngãi (QNS) chốt danh sách cổ đông nhận cổ tức bằng tiền tỷ lệ 15%
+
+test_146
+Chứng khoán Rồng Việt (VDS): Số lượng cổ đông tăng đột biến lên hơn 2.600 người, quý 1 thực hiện đến 68% kế hoạch năm với 123 tỷ lãi trước thuế
+
+test_147
+ĐHĐCĐ Chứng khoán Rồng Việt (VDSC): Không sợ mất cơ hội, chỉ sợ mất tiền!
+
+test_148
+PV Coating (PVB): Bất ngờ đặt mục tiêu lỗ 12 tỷ đồng trong năm 2021
+
+test_149
+Thép Nam Kim (NKG) đạt sản lượng bán hàng kỷ lục trong quý 1/2021, xuất khẩu tăng mạnh nhờ thị trường châu Âu và Mỹ
+
+test_150
+2 năm từ "sự cố nhỏ" với Youtube: Yeah1 từ công ty trị giá 400 triệu USD đã mất 90% giá trị, lỗ tổng cộng 567 tỷ đồng
+
+test_151
+HOSE vẫn xử lý và chấp thuận niêm yết mới, nhưng tạm thời giao dịch trên HNX
+
+test_152
+Cotana Group (CSC): Năm 2021 sẽ có doanh thu nghìn tỷ, lãi tăng 183% so với 2020
+
+test_153
+DPG tăng 13% từ đầu năm, Đạt Phương quyết định mang 1,5 triệu cổ phiếu quỹ ra bán
+
+test_154
+Các lãnh đạo Tập đoàn FIT liên tục muốn bán cổ phiếu để lấy tiền đầu tư
+
+test_155
+Pyn Elite Fund nắm giữ gần 1.700 tỷ đồng chứng chỉ Diamond ETF, đặt niềm tin vào MBB
+
+test_156
+KPF: Đổi tên công ty, năm 2021 đặt mục tiêu lãi 49 tỷ đồng, cao gấp đôi 2020
+
+test_157
+FIT, HPG, DLG, VN, THB, PVL, MIC, TR1, BVG, GLT, KDM: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_158
+Lịch sự kiện và tin vắn chứng khoán ngày 9/4
+
+test_159
+Tundra: "Các thị trường cận biên vừa trải qua hai tháng củng cố sau sự phục hồi mạnh mẽ từ đầu năm 2020"
+
+test_160
+Cổ phiếu PGT và cổ phiếu MPT đứng trước nguy cơ bị hủy bỏ niêm yết
+
+test_161
+Lịch chốt quyền nhận cổ tức bằng tiền của 6 doanh nghiệp
+
+test_162
+ĐHCĐ FPT: LN quý 1 ước tăng 22%, tuyển thêm 7.000 nhân sự trong năm nay để đáp ứng nhu cầu tăng trưởng
+
+test_163
+Thị giá chỉ 12.300, một công ty nuôi heo có EPS 2020 tăng gấp 8 lần lên 13.300 đồng, từng có lúc EPS đạt 104.000 đồng
+
+test_164
+Cổ phiếu hàng không lấy lại “sức sống”
+
+test_165
+Ông Trương Gia Bình: "Chỉ 3 tháng thôi, FPT sẽ giải quyết được vấn đề của HoSE mà người khác làm mấy năm không xong"
+
+test_166
+Habeco đặt kế hoạch lãi 255 tỷ đồng trong năm 2021, giảm gần 60% so với năm trước
+
+test_167
+Shark Linh: Nếu có thu nhập 10 triệu đồng/tháng thì nên đầu tư 500 ngàn đến 1 triệu vào chứng khoán, nhưng hãy đầu tư trong dài hạn
+
+test_168
+Chủ tịch FPT "khoe" công ty tạo ra 200 triệu phú đô la khi lên sàn, lái xe cũng có tiền cho con đi du học
+
+test_169
+BOT Cầu Thái Hà "tố" xe tránh qua cầu Hưng Hà nhưng vẫn "mượn đường" 1,6km mà không trả phí
+
+test_170
+Khối ngoại bán ròng trên HoSE, VN-Index mất hơn 7 điểm trong phiên 8/4
+
+test_171
+Vụ call margin chấn động phố Wall: Đánh "gấp thếp" kèm đòn bẩy cao để biến 200 triệu USD thành 100 tỷ USD
+
+test_172
+An Tiến Industries (HII) lên kế hoạch lợi nhuận năm 2021 tăng 32% và phát hành thêm 4,8 triệu cổ phiếu
+
+test_173
+SGN sẵn sàng khai thác chuyến bay quốc tế từ quý 3, đặt kế hoạch tăng trưởng lợi nhuận gần 8% trong năm 2021
+
+test_174
+VNDIRECT: "Thông tư 03 sẽ giảm áp lực trích lập dự phòng của các NHTM"
+
+test_175
+Kỷ lục chưa từng có: Nhà đầu tư trong nước mở mới 113.191 tài khoản chứng khoán trong tháng 3, bằng xấp xỉ 30% cả năm 2020
+
+test_176
+Sao Mai Group (ASM): Trình kế hoạch phát hành hơn 1.700 tỷ đồng trái phiếu, cổ phiếu
+
+test_177
+Công ty dược lớn thứ 2 sàn chứng khoán muốn hủy niêm yết khi tập đoàn Đức nắm giữ hơn 99,5% vốn
+
+test_178
+Tổng Xây lắp Dầu khí (PVX): Lỗ lũy kế 3957 tỷ đồng, kiểm toán tiếp tục từ chối đưa ra ý kiến
+
+test_179
+Tiếp tục nghẽn lệnh, VN-Index chấm dứt chuỗi 8 phiên tăng điểm liên tiếp
+
+test_180
+Công ty Thống Nhất (BAX) chốt danh sách cổ đông chi cổ tức đợt 2/2020 bằng tiền tỷ lệ gần 131%
+
+test_181
+Cơ hội tìm kiếm cổ phiếu có mức cổ tức cao từ Nghị định 140
+
+test_182
+Fubon FTSE Vietnam ETF sẽ giao dịch như thế nào?
+
+test_183
+Những cổ phiếu hiếm hoi vẫn ở đáy dù VN-Index liên tục lập đỉnh
+
+test_184
+Gelex mua thêm hơn 18,5 triệu cổ phiếu VGC, đã nắm quá bán số cổ phần tại Viglacera
+
+test_185
+Grab sắp niêm yết cổ phiếu tại Mỹ với mức định giá 35 tỷ USD
+
+test_186
+Cổ phiếu IBC của Apax Holdings được cấp margin trở lại
+
+test_187
+SSI Research: Vĩ mô tích cực, TTCK Việt Nam vẫn là điểm đến hấp dẫn của dòng vốn trong dài hạn
+
+test_188
+VGC, HDG, CII, QTP, VHG, TVB, HVH, VSE, MG, TS4, TOP, IDV, GLT: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_189
+Công ty chứng khoán chạy đua tăng vốn đáp ứng “cơn khát” margin trên thị trường
+
+test_190
+Petrolimex: Năm 2021 đặt kế hoạch lãi trước thuế 3.360 tỷ đồng, cổ tức tổi thiểu 12%, hoàn thành thoái vốn PG Bank
+
+test_191
+Những con số nổi bật của thị trường chứng khoán Việt Nam quý I/2021
+
+test_192
+Làm công ăn lương thu nhập tháng chỉ 5-7 triệu đồng, tôi có nên góp 200 triệu đồng cùng bạn thân đầu tư chứng khoán?
+
+test_193
+Thép Nam Kim (NKG): Sắp phát hành cổ phiếu ESOP và chia cổ tức tổng tỷ lệ 20%, kế hoạch lãi 2021 gấp đôi lên 600 tỷ đồng
+
+test_194
+Mirae Asset: “Triển vọng vĩ mô lạc quan, VN-Index có thể cán mốc 1.400 điểm”
+
+test_195
+BVH tăng 3%, thị trường chứng khoán tiếp tục thu hút dòng tiền khi liên tục xác lập đỉnh cao mới
+
+test_196
+Phiên 7/4: Khối ngoại tiếp tục bán ròng, tập trung bán CTG, VNM
+
+test_197
+Petrosetco (PET): Kế hoạch lợi nhuận tăng 43% lên 200 tỷ đồng, quý 2 sẽ phát hành 4 triệu cổ phiếu ESOP
+
+test_198
+SMC: Lập liên doanh với Samsung, đặt mục tiêu tiêu thụ 1,35 triệu tấn thép năm 2021
+
+test_199
+SAM Holdings (SAM) đặt kế hoạch lợi nhuận năm 2021 tăng gấp 2,4 lần lên hơn 300 tỷ đồng
+
+test_200
+HSC thông qua phương án tăng vốn cho cổ đông hiện hữu, dự thu về 2.135 tỷ đồng bổ sung nguồn vốn margin, tự doanh
+
+test_201
+EVNGenco3 (PGV): Lãi ròng sau kiểm toán điều chỉnh xuống còn 1.815 tỷ đồng, năm 2020 giảm 5.000 tỷ dư nợ vay
+
+test_202
+SSI Research: “Khắc phục tình trạng quá tải hệ thống trên HOSE, VN-Index thêm động lực hướng tới vùng mục tiêu 1.350-1.400 điểm”
+
+test_203
+Thanh khoản TTCK phái sinh quý 1 tăng 9,21% so với bình quân năm 2020
+
+test_204
+Nhựa Bình Minh (BMP) dành 99% lợi nhuận của năm 2020 chia cổ tức cho cổ đông
+
+test_205
+Nhóm ngân hàng, chứng khoán bứt phá mạnh, SSIAM VNFinLead ETF trở thành quỹ tăng trưởng tốt nhất thị trường quý 1
+
+test_206
+PMG tăng gấp 3 từ đầu năm, Lemon Gas vẫn chi gần 400 tỷ đồng mua 11,5 triệu cổ phiếu
+
+test_207
+VNM, HBC, TDG, PMG, C47, OPC, VIG, TV2, APS, CSC, INC: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_208
+Lịch sự kiện và tin vắn chứng khoán ngày 7/4
+
+test_209
+Những cổ phiếu tăng sốc từ đầu năm 2021: Quán quân thuộc về cổ phiếu tăng gấp 11 lần
+
+test_210
+FPT Retail (FRT) đặt kế hoạch tăng 320% LNST lên 120 tỷ đồng, mở mới 150 cửa hàng dược Long Châu
+
+test_211
+Quỹ đầu tư rót 650 triệu USD vào Vinhomes vừa huy động thêm 15 tỷ USD đầu tư vào châu Á
+
+test_212
+Nợ 400 tỷ đồng, chỉ thu được 200 triệu đồng nên cưỡng chế hóa đơn Thuduc House
+
+test_213
+HVN, DXG và nhiều tên tuổi lớn không được giao dịch ký quỹ trong quý 2
+
+test_214
+ĐHĐCĐ Digiworld (DGW): Năm 2021 sẽ "lấn sân" thị trường tivi, máy giặt quy mô 2,4 tỷ USD
+
+test_215
+Lãi lớn năm 2020, NET đặt kế hoạch trả cổ tức lên tới 60%
+
+test_216
+SK Group lên kế hoạch mua thêm 5,18% cổ phần Imexpharm (IMP) từ VinaCapital
+
+test_217
+Chính thức hợp nhất Viglacera sẽ tác động như thế nào đến Gelex?
+
+test_218
+Sonadezi Long Thành (SZL): Đặt kế hoạch lợi nhuận hơn 87 tỷ đồng năm 2021, triển khai dự án Cụm Công nghiệp Long Phước 1 (75ha)
+
+test_219
+Phiên 6/4: Khối ngoại quay đầu bán ròng, VN-Index gặp khó trước ngưỡng 1.240 điểm
+
+test_220
+ĐHĐCĐ Dệt may Thành Công (TCM): Cổ đông lớn Nguyễn Văn Nghĩa ứng cử ghế HĐQT, sẽ phát hành cổ phiếu thưởng 15% và chia 5% cổ tức tiền mặt
+
+test_221
+Digiworld (DGW) tăng trưởng 133% lãi sau thuế trong quý 1/2021, ước đạt 105 tỷ đồng
+
+test_222
+Đá Núi Nhỏ (NNC) chốt quyền tạm ứng cổ tức đợt 2/2020 bằng tiền tỷ lệ 18%
+
+test_223
+Thêm 1 công ty con của Tổng công ty Lương Thực Miền Bắc tiến hành IPO, đưa gần 1,7 triệu cổ phiếu ra chào bán
+
+test_224
+Nhiều mã chứng quyền tăng bằng lần 6 tháng qua giúp nhà đầu tư kiếm bộn
+
+test_225
+FIT Group dự kiến chia cổ tức năm 2020 với tỷ lệ 10%
+
+test_226
+Nhựa Tiền Phong (NTP): Kế hoạch lãi trước thuế năm 2021 sụt giảm 17%, về mức 432 tỷ đồng
+
+test_227
+Rạng Đông (RAL) chốt quyền nhận cổ tức đợt 2/2020 bằng tiền tỷ lệ 25%
+
+test_228
+Lỗ lũy kế vượt quá số vốn điều lệ thực góp, Ngoprexco (NGC) có khả năng bị hủy niêm yết
+
+test_229
+Chứng khoán BSC: VN-Index đủ khả năng vượt cản tâm lý, kết thúc Quý 2/2021 trên ngưỡng 1.250 điểm
+
+test_230
+Nghẽn lệnh trong phiên chiều, VN-Index thất bại trước mốc 1.240 điểm
+
+test_231
+Domesco (DMC) đặt kế hoạch lợi nhuận 215 tỷ đồng trong năm 2021, tăng trưởng gần 20% so với năm trước
+
+test_232
+YEG, GEX, DAH, IDP, POM, PAC, TMS, VC7, PDB, INC, CAG, CTC: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_233
+Lịch chốt quyền nhận cổ tức bằng tiền của 6 doanh nghiệp
+
+test_234
+Năm Bảy Bảy (NBB) dự kiến lợi nhuận năm 2021 tăng trên 37%, đạt 450 tỷ đồng
+
+test_235
+VDSC: “Dòng tiền từ các quỹ ngoại mới và nhà đầu tư nội tiếp tục nâng đỡ thị trường, VN-Index có thể cán mốc 1.300 điểm trong tháng 4”
+
+test_236
+IPO doanh nghiệp này đang thu hút các nhà đầu tư am hiểu bất động sản
+
+test_237
+Coteccons lần đầu tính đến việc sử dụng đòn bẩy tài chính, đặt kế hoạch 2021 đi ngang
+
+test_238
+BVSC: “Dòng vốn ngoại có thể chảy vào TTCK Việt Nam từ nửa cuối năm 2021, tập trung vào nhóm Bluechips”
+
+test_239
+Lịch sự kiện và tin vắn chứng khoán ngày 6/4
+
+test_240
+Sau 4 năm sụt giảm liên tiếp, PGS đặt kế hoạch lãi 78,2 tỷ đồng trong năm 2021, tăng gần 8% so với năm trước
+
+test_241
+CII: Xa lộ Hà Nội và Trung Lương – Mỹ Thuận được thu phí là cơ sở tăng 25% lợi nhuận 2021 lên 615 tỷ đồng, kế hoạch huy động đến 20.000 tỷ trái phiếu
+
+test_242
+Điên cuồng khuấy đảo Phố Wall trong những ngày đầu năm nhưng giờ đây lại biến mất, nhà đầu tư nhỏ lẻ đã đi đâu?
+
+test_243
+PC1 muốn đổi tên công ty: Đặt kế hoạch LNST 2021 giảm nhẹ xuống 510 tỷ, trả cổ tức 20% năm 2020
+
+test_244
+Khối ngoại tiếp tục mua ròng gần 100 tỷ đồng trong phiên 5/4
+
+test_245
+VCB bứt phá ngoạn mục lên trên 100.000 đồng, SHB bất ngờ đảo chiều giảm sàn, VnIndex tăng 12 điểm cuối phiên
+
+test_246
+Chủ sở hữu trà bí đao Wonderfarm đặt kế hoạch xóa lỗ lũy kế, hồi sinh mạnh mẽ sau 10 năm về tay người Nhật
+
+test_247
+Viettel Post ước lãi trước thuế 134 tỷ đồng trong quý 1, tăng trưởng 10% so với cùng kỳ 2020
+
+test_248
+Thị phần môi giới HoSE quý 1/2021: Top 4 gia tăng cách biệt, VPS bất ngờ dẫn đầu
+
+test_249
+Vợ CEO VinaCapital chốt lãi cổ phiếu “kỳ lân” VNG, có thể thu về cả nghìn tỷ đồng
+
+test_250
+Thêm một Công ty chứng khoán lên kế hoạch tạm chuyển sang HNX để giảm tải hệ thống
+
+test_251
+MBS và KBSV ký kết thành công thỏa thuận hợp tác chiến lược
+
+test_252
+Fubon Vietnam ETF mua hàng trăm tỷ cổ phiếu Việt Nam ngay những phút mở cửa phiên 5/4?
+
+test_253
+Nhiệt điện Quảng Ninh (QTP) điều chỉnh tăng 540 tỷ đồng LNST trên BCTC kiểm toán năm 2020
+
+test_254
+Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 5/4-9/4
+
+test_255
+EVE đặt kế hoạch lợi nhuận 2021 tăng hơn 70%, dự kiến mua 3 triệu cổ phiếu quỹ.
+
+test_256
+Khải Hoàn Land thu hút sự quan tâm trước ngày IPO
+
+test_257
+Lịch sự kiện và tin vắn chứng khoán ngày 5/4
+
+test_258
+Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp
+
+test_259
+KBSV: “Bất cứ nhịp điều chỉnh sâu nào của thị trường đều là cơ hội tích lũy cổ phiếu”
+
+test_260
+Kỳ vọng gì ở cổ phiếu ngân hàng?
+
+test_261
+CII, HNG, REE, SHS, VC7, TTH, TEG, S4A, TSJ, TOP, PVL: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_262
+VN-Index phá đỉnh lịch sử, điều gì chờ đợi phía trước?
+
+test_263
+Xu thế dòng tiền: VN-Index vượt đỉnh, chọn cổ phiếu "khỏe" mới quan trọng
+
+test_264
+HoSE: Khối ngoại bán ròng 12.250 tỷ đồng trong tháng 3/2021
+
+test_265
+VnDirect (VND) chốt danh sách cổ đông nhận cổ tức bằng tiền tỷ lệ 5%
+
+test_266
+Quy mô hơn 10.000 tỷ đồng, VFMVN Diamond trở thành quỹ ETF lớn nhất TTCK Việt Nam, vượt qua cả VNM ETF hay FTSE Vietnam
+
+test_267
+[Quy tắc đầu tư vàng] Nguyên tắc vàng để giữ được tiền trên thị trường chứng khoán qua câu truyện cổ
+
+test_268
+Một doanh nghiệp kinh doanh kềm, chi trả cổ tức hàng chục phần trăm mỗi năm nhưng giá cổ phiếu chưa tới 2.000 đồng
+
+test_269
+PV GAS: Giá dầu tăng cao thúc đẩy lợi nhuận quý 1/2021 đạt mức 2.234 tỷ đồng
+
+test_270
+ĐHĐCĐ Licogi 16 (LCG): Sẽ phát hành 500 tỷ cổ phần mới, nếu không thành sẽ được ông Nguyễn Văn Nghĩa mua toàn bộ
+
+test_271
+Chứng khoán BOS (ART) dự kiến phát hành 500 tỷ đồng trái phiếu chuyển đổi
+
+test_272
+Nomura và thương vụ thua lỗ 2 tỷ USD do "margin call"
+
+test_273
+TIP có kế hoạch tăng vốn lên 1.000 tỷ, đặt kế hoạch kinh doanh năm 2021 giảm mạnh
+
+test_274
+CII tăng mạnh, Chủ tịch HĐQT và hai vị nữ Giám đốc của công ty muốn bán cổ phiếu để mua nhà
+
+test_275
+CII công bố ngày chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 14%
+
+test_276
+Vingroup lãi gần 17.000 tỷ đồng từ 3 giao dịch bán buôn
+
+test_277
+Lỗ luỹ kế hơn 219 tỷ đồng, Yeah1 (YEG) tiếp tục trình kế hoạch dùng thặng dư vốn xoá lỗ
+
+test_278
+Tổng công ty 36 (G36) điều chỉnh giảm 50% lãi sau thuế sau kiểm toán do trích lập dự phòng, lên kế hoạch niêm yết HNX
+
+test_279
+5 "viên kim cương" nào sẽ lọt rổ VNDiamond trong kỳ review tháng 4?
+
+test_280
+Mã lớn trong VN30 là động lực cho thị trường bứt phá
+
+test_281
+Thêm 10.000 tài khoản mở mới tại YSVN - Sức hút từ gói vay margin 6%
+
+test_282
+SAFI đặt kế hoạch lợi nhuận 2021 giảm hơn 16%, chi trả cổ tức 15%
+
+test_283
+Thoái vốn từ PVM giúp PV Power bổ sung nguồn vốn xây dựng NT3, NT4
+
+test_284
+Khối ngoại tiếp tục mua ròng 700 tỷ đồng trong phiên 2/4
+
+test_285
+DIC Corp (DIG): Năm 2021 đặt mục tiêu LNTT tăng 60% lên 1.444 tỷ đồng, tiếp tục vay vốn lớn cho dự án Bắc Vũng Tàu
+
+test_286
+Viettel Construction (CTR) đặt kế hoạch kinh doanh đi ngang trong năm 2021
+
+test_287
+Sôi động chứng khoán đầu năm, tài khoản mới tại VNDIRECT tăng 180%
+
+test_288
+PMG bất ngờ được khối ngoại mua ròng gần 11,5 triệu cổ phiếu, VnIndex tiếp đà tăng mạnh
+
+test_289
+Vì sao khối ngoại dừng bán ròng?
+
+test_290
+FPT Online (FOC) chốt danh sách cổ đông nhận cổ tức bằng tiền tỷ lệ 200%
+
+test_291
+Chứng khoán BOS dự kiến phát hành 500 tỷ đồng trái phiếu chuyển đổi
+
+test_292
+Mức đãi ngộ vượt trội nhiều tập đoàn tỷ đô dành cho ban lãnh đạo cũ Coteccons: TGĐ thu nhập 13 tỷ năm 2019 nhưng vẫn thấp hơn nhiều Chủ tịch Nguyễn Bá Dương
+
+test_293
+Không chỉ được nhận cổ tức, nhà đầu tư còn nhận thêm tiền với giá trị tương đương khi tham dự ĐHCĐ HUD 6
+
+test_294
+Fubon FTSE Vietnam ETF đã huy động hơn 4.000 tỷ đồng từ đợt IPO
+
+test_295
+Nhiều quỹ thắng lớn trên TTCK Việt Nam trong quý 1, bộ đôi VFMVN Diamond ETF và SSIAM VNFinLead ETF bỏ xa phần còn lại
+
+test_296
+Thủy điện Đa Nhim-Hàm Thuận-Đa Mi (DNH): Kế hoạch lãi sau thuế năm 2021 giảm 19%, về mức 535 tỷ đồng
+
+test_297
+Chủ tịch HĐQT Tập đoàn Nam Mê Kông (VC3) đăng ký mua gần 15 triệu cổ phiếu VC3
+
+test_298
+Thủy sản Cà Mau (CAT) chốt quyền tạm ứng cổ tức đợt 2/2020 bằng tiền tỷ lệ 20%
+
+test_299
+Lịch sự kiện và tin vắn chứng khoán ngày 2/4
+
+test_300
+"Không có lý do gì lại đầu tư vào những cổ phiếu siêu rủi ro"
+
+test_301
+TLH, CII, IDP, NHT, PHC, VC1, VC3, CSC, DID, NED, BVG, CET, DC2, HFB: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_302
+Xây dựng 47 (C47): Thị giá tăng phi mã sau gần nửa năm, chuẩn bị phát hành tăng gấp rưỡi vốn với giá không dưới 10.000 đồng/cp
+
+test_303
+Hoàn tiền liền tay – Mở ngay tài khoản hoàn 100% phí giao dịch
+
+test_304
+Becamex IJC đặt kế hoạch LNTT năm 2021 tăng 77% lên 797 tỷ đồng
+
+test_305
+Vượt 1.200 điểm, VN-Index sẽ tăng tiếp tới đâu?
+
+test_306
+Coteccons - chủ động minh bạch số liệu tài chính
+
+test_307
+Dịch vụ Phân phối Tổng hợp dầu khí (PSD) lên kế hoạch lợi nhuận năm 2021 tăng 71%
+
+test_308
+Kienlongbank đã bán xong cổ phiếu STB?
+
+test_309
+Người nhà lãnh đạo Thép Tiến Lên đã bán xong số cổ phiếu trị giá 50 tỷ đồng, sẵn sàng tiền để mua nhà ở
+
+test_310
+VN-Index lập đỉnh lịch sử, tăng mạnh hàng đầu Châu Á trong ngày mở màn quý 2
+
+test_311
+Pyn Elite Fund thoái vốn, cổ phiếu Gỗ Đức Thành (GDT) lập đỉnh lịch sử
+
+test_312
+Khối ngoại trở lại mua ròng, VN-Index lập đỉnh lịch sử trong phiên 1/4
+
+test_313
+Nam Long và công ty con đã bán xong hơn 21 triệu cổ phiếu, thu về gần 700 tỷ để mở rộng quỹ đất
+
+test_314
+Dabaco: Quý 1/2021 lãi trước thuế 407 tỷ đồng, tăng 8,8% cùng kỳ 2020
+
+test_315
+Hết quý I, chiêm nghiệm lời “tiên đoán” của cựu Chủ tịch LienViet PostBank: Chứng khoán không "sập" mà chạm ngưỡng lịch sử, BĐS “sốt” khắp nơi
+
+test_316
+Khối ngoại bán ròng hơn 14.000 tỷ đồng chỉ trong quý 1, gần bằng lực bán ròng trong cả năm 2020
+
+test_317
+ĐHĐCĐ Masan: VinCommerce đặt mục tiêu có lãi "mỏng" trong năm nay
+
+test_318
+Bùng nổ trong ngày đầu tháng 4, VN-Index lên mức cao nhất trong lịch sử
+
+test_319
+Ông Vũ Bằng: Cơ hội để VN-Index vươn lên 1.300 -1.400 điểm trong năm 2021 là khó
+
+test_320
+FPT phát hành cổ phiếu ESOP cho lãnh đạo cấp cao trị giá khoảng 100 tỷ đồng
+
+test_321
+FIT giảm 30% từ đầu năm, một lãnh đạo công ty vẫn quyết bán hơn 4 triệu cổ phiếu để lấy vốn đầu tư
+
+test_322
+FIT, KDH, NVL, HDC, TDG, GDT, TEG, AGG, HVG, DID, CCA, TS4: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_323
+Sau nửa năm làm cổ đông lớn, 1 lãnh đạo của Hùng Vương (HVG) lại đăng ký bán ra gần 37 triệu cổ phiếu HVG
+
+test_324
+FPT tổ chức đại hội cổ đông 2021 theo hình thức 100% trực tuyến
+
+test_325
+Lịch sự kiện và tin vắn chứng khoán ngày 1/4
+
+test_326
+DIC Corp (DIG) điều chỉnh tăng 80 tỷ đồng lợi nhuận sau thuế sau kiểm toán, lên 722 tỷ đồng
+
+test_327
+Trong 10 năm qua, chứng khoán Việt Nam có xác suất giảm điểm cao nhất vào quý 2
+
+test_328
+BĐS Phát Đạt (PDR) triển khai phương án phát hành 51 triệu cổ phiếu trả cổ tức
+
+test_329
+Nhựa Đông Á (DAG) phát hành 7,77 triệu cổ phiếu thưởng tỷ lệ 15%
+
+test_330
+Hoa Sen (HSG): Lại trình kế hoạch mua 22 triệu cổ phiếu quỹ, thực hiện từ nay đến tháng1/2022
+
+test_331
+Nguyên Chủ tịch UBCKNN Vũ Bằng: Các sở không cải cách quản trị, đề xuất cổ phần hoá Sở Giao dịch Chứng khoán
+
+test_332
+VCSC: Khối ngoại bán ròng và COVID-19 là những yếu tố tiêu cực tác động lên thị trường trong tháng 4
+
+test_333
+VN-Index vượt mốc 1.190 điểm, khối ngoại vẫn bán ròng hơn 230 tỷ đồng trong phiên 31/3
+
+test_334
+D2D đặt kế hoạch lãi đi ngang với 268 tỷ đồng năm 2021, đề xuất chia cổ tức năm 2020 tỷ lệ 35%
+
+test_335
+Chứng khoán Đại Nam (DNSE) điều chỉnh kế hoạch tăng vốn, đặt kế hoạch lên sàn niêm yết
+
+test_336
+STB, MSN tăng mạnh, VnIndex lên mốc 1.191 điểm
+
+test_337
+Vì sao khối ngoại bán ròng giá trị hàng tỷ USD tại Việt Nam trong hơn một năm qua?
+
+test_338
+Sợi Thế Kỷ (STK) đặt kế hoạch lãi sau thuế năm 2021 tăng 72%
+
+test_339
+Loạt lãnh đạo của XNK Quảng Bình bất ngờ đăng ký bán sạch gần 10 cổ phiếu QBS đang sở hữu
+
+test_340
+ĐHCĐ Traphaco: Gia tăng tỷ trọng mảng tân dược, ước lãi quý 1 tăng trưởng 33%
+
+test_341
+Những cơn "sốt" trên thị trường bất động sản, chứng khoán và tác động không mong muốn của chính sách tiền tệ
+
+test_342
+Có 300 triệu đồng, muốn đầu tư chứng khoán mà không có thời gian xem bảng giá thì phải làm sao?
+
+test_343
+CII, VNE, SGR, QBS, CSC, AME, VIG, IMP, MRF, ADG, HFB: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_344
+Lịch sự kiện và tin vắn chứng khoán ngày 31/03
+
+test_345
+Archegos: Từ quỹ đầu cơ vô danh đến vụ nổ gây sốc ở Phố Wall
+
+test_346
+Cổ phiếu SSB tím trần liên tiếp, sức hút nhờ đâu?
+
+test_347
+Bảo hiểm Bưu điện: Phó Chủ tịch HĐQT không nhận lương nhưng được trả gần 3 tỷ tiền thuê nhà, học phí cho con và các chi phí hoạt động khác
+
+test_348
+Hoàng Huy (HHS): Kế hoạch lãi sau thuế 200 tỷ đồng năm 2021, thông qua quyết định chuyển sàn tạm thời sang HNX
+
+test_349
+Vụ quỹ đầu tư Archegos sụp đổ: Vì sao Goldman Sachs và Morgan Stanley có thể thoát hàng còn Nomura và Credit Suisse cay đắng chịu lỗ hàng tỷ USD chỉ trong vài ngày?
+
+test_350
+FPT đã vào khảo sát hệ thống HoSE, Bộ Tài chính thành lập Ban Chỉ đạo xử lý sự cố nghẽn lệnh
+
+test_351
+FTSE Russell giữ Việt Nam ở lại trong danh sách theo dõi nâng hạng thị trường mới nổi
+
+test_352
+HoSE đặt kế hoạch lãi 648 tỷ đồng trong năm 2021, tập trung triển khai hệ thống KRX
+
+test_353
+Dat Xanh Services chính thức chào bán 71,66 triệu cổ phiếu
+
+test_354
+Thị trường tăng mạnh, khối ngoại vẫn bán ròng gần 200 tỷ đồng trong phiên 30/3
+
+test_355
+CVT chi trả cổ tức bằng tiền tỷ lệ 20%, mua 3,6 triệu cổ phiếu sau khi lộ diện cổ đông chi phối
+
+test_356
+SSI Research: TCM và 4 cổ phiếu ngân hàng sẽ được thêm mới vào rổ VNDiamond trong kỳ review tháng 4
+
+test_357
+Tỷ phú Quang: Ít nhất 50% số cửa hàng VinMart sẽ bắt đầu triển khai dịch vụ tài chính trong năm nay, đối tác đã rất rõ ràng là Techcombank
+
+test_358
+Vicostone (VCS) đặt kế hoạch lãi trước thuế năm 2021 tăng trưởng 15%, lên mức 1.919 tỷ đồng
+
+test_359
+Cổ phiếu Việt Nam nào hưởng lợi từ sự kiện tắc nghẽn kênh đào Suez?
+
+test_360
+HOSE chính thức lên tiếng về tình trạng quá tải hệ thống và giải pháp khắc phục
+
+test_361
+STB tăng trần với khối lượng khớp lệnh 100 triệu đơn vị, VN-Index bứt phá hơn 10 điểm
+
+test_362
+Chủ tịch REE - bà Nguyễn Thị Mai Thanh: Năm 2021 cơ hội M&A cực kỳ lớn, dù cổ phiếu tăng phi mã nhưng vẫn chưa phản ánh đúng giá trị Công ty
+
+test_363
+Bối cảnh kinh tế vĩ mô và tác động tới thị trường chứng khoán Việt Nam
+
+test_364
+Lịch chốt quyền nhận cổ tức bằng tiền của 5 doanh nghiệp
+
+test_365
+ELC, QBS, HDC, VSC, TCO, PSG, DND, VNT, INC, C32: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_366
+Lý do nhà đầu tư bỗng quan tâm đến công ty chứng khoán vốn ngoại này
+
+test_367
+Lịch sự kiện và tin vắn chứng khoán ngày 30/03
+
+test_368
+Đất Xanh (DXG): Năm 2020 chưa "book" kịp lợi nhuận, năm 2021 dự đạt lãi sau thuế 1.600-1.700 tỷ đồng
+
+test_369
+Tổng huy động vốn trên TTCK trong quý 1 đạt 55.562 tỷ đồng, tăng 42% so với cùng kỳ năm trước
+
+test_370
+Đất Xanh Services (DXS): IPO với giá 32.000 đồng/cp, nhà đầu tư đăng ký mua trên 10.000 cổ phiếu sẽ được mua nhà ưu đãi
+
+test_371
+Sự kiện chấn động phố Wall: 1 quỹ đầu tư cháy tài khoản, hàng loạt ngân hàng lừng danh bị liên lụy, tạo ra cơn bán tháo lớn nhất trong lịch sử
+
+test_372
+HoSE: Môi giới tuyên truyền sai tình trạng quá tải, yêu cầu sếp CTCK giám sát nhân viên
+
+test_373
+Thị trường hồi phục, khối ngoại vẫn bán ròng 180 tỷ đồng trong phiên 29/3
+
+test_374
+IDJ tặng đêm nghỉ 5 sao cho tất cả cổ đông
+
+test_375
+ĐHCĐ TEC Group (TEG): Đặt kế hoạch lợi nhuận năm 2021 gấp 11 lần, phát hành tăng vốn mua cổ phần công ty Năng lượng Trường Thành
+
+test_376
+Lọc hoá dầu Bình Sơn (BSR) ước lợi nhuận quý 1 đạt 1.803 tỷ, gấp đôi kế hoạch năm
+
+test_377
+“Đầu tư chứng khoán, cần bớt để ý đến Vn-Index”
+
+test_378
+Lịch sự kiện và tin vắn chứng khoán ngày 29/03
+
+test_379
+Thị trường chứng khoán Việt Nam có sức phục hồi mạnh nhất Đông Nam Á và lọt Top 10 thế giới
+
+test_380
+Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 29/3-2/4
+
+test_381
+MBS: “VN-Index tiếp tục kịch bản sideway, nhà đầu tư ưu tiên gia tăng tỷ trọng tiền mặt”
+
+test_382
+Xu thế dòng tiền: Lợi nhuận quý 1 sẽ là bệ đỡ
+
+test_383
+Thị giá tăng gấp 5 lần sau khi trở thành cổ đông lớn, cựu sếp Prime Group đang nắm giữ lượng cổ phiếu TCM trị giá gần 900 tỷ đồng
+
+test_384
+KBC, SGR, BVG, C47, CVT, NHA, GMA, DIH, HAS, EFI, VHD, SOV: Thông tin giao dịch lượng lớn cổ phiếu
+
+test_385
+Sự thật trần trụi về các nhân viên ngân hàng đầu tư phố Wall: Làm việc 'bán mạng' 100 giờ/tuần để đổi lấy mức lương 160.000 USD/năm, bị gọi là 'công nhân tài chính'
+
+test_386
+Thành bại tại margin
+
+test_387
+Khối ngoại giảm bán ròng trong tuần từ 22-26/3 nhờ thỏa thuận mạnh VIC, MSB và GAS
+
+test_388
+Nhà đầu tư chú ý, 4 doanh nghiệp tiên phong chuyển sàn tạm từ HoSE sang HNX sẽ giao dịch phiên đầu vào tuần sau
+
+test_389
+Công suất điện của Gelex sẽ tăng gấp đôi lên 240MW, mảng cáp điện có thể gặp khó do giá đồng
+
+test_390
+Thị phần sữa đậu nành nhảy vọt lên 86% nhưng Vinasoy đang bị thách thức lớn trước "cơn sốt" tăng giá nông sản thế giới
+
+test_391
+Cổ phiếu tăng phi mã từ 20.000 lên 100.000 đồng, lãnh đạo TCM cho biết đã “full” đơn hàng đến hết tháng 7
+
+test_392
+Lợi nhuận tăng gấp đôi, một cổ phiếu ngành giấy có EPS hơn 12.000 đồng, PE 5 lần
+
+test_393
+PNJ tăng cổ tức năm 2020 lên 20%, đặt kế hoạch lợi nhuận 1.230 tỷ đồng trong năm 2021
+
+test_394
+Khi nào vốn ngoại hết đảo chiều?
+
+test_395
+Ông Petri Deryng: “VN-Index đạt 1.500 điểm vào cuối năm 2021 là con số hợp lý”
+
+test_396
+Gang thép Thái Nguyên (TIS) đặt kế hoạch LNTT tăng 40% lên 49 tỷ đồng
+
+test_397
+Thế giới Di động (MWG): Lợi nhuận 2 tháng đầu năm tăng 18% lên 999 tỷ đồng trong khi doanh thu của ĐMX và TGDĐ không tăng trưởng
+
+test_398
+Kỳ vọng cược tàu vẫn ở mức cao, Hải An (HAH) đặt kế hoạch lợi nhuận tăng 8% lên 158 tỷ đồng
+
