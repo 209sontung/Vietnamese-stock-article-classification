@@ -61,8 +61,8 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 |         Label       |   Title                               |     Title (Eng)     | 
 |---------------------|:------------:                                 |:-----------:|
 |       Xception      | Vĩnh Hoàn (VHC): Doanh thu tháng              |     2.7     |
-|                     | 4/2021 đạt 800 tỷ đồng, các thị trường xuất   |             |
-|                     | khẩu đồng loạt tăng tốt                       |             |
+|                       4/2021 đạt 800 tỷ đồng, các thị trường xuất                 |
+|                       khẩu đồng loạt tăng tốt                                     |
 |       ResNet50      |    99.47%                                     |     2.1     |
 |       ResNet101     |    99.47%                                     |     1.8     |
 |       ResNet152     |    99.76%                                     |     1.4     |
