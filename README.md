@@ -85,7 +85,7 @@ vocab = Dictionary()
 vocab.add_from_file("/content/PhoBERT_base_transformers/dict.txt")
 ```
 
-## <a name="load"></a> Loading PhoBERT `from transformers`
+## <a name="load"></a> Loading PhoBERT from `transformers`
 ```python
 from transformers import RobertaForSequenceClassification, RobertaConfig, AdamW
 
@@ -103,7 +103,7 @@ BERT_SA.cuda()
 The training details has been stated in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
 
 ## <a name="test"></a> Testing 
-To test with your own data, follow the tutorial here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PlhJDqeFmdUsY4gN_0CJumaiCl6jFrcN?usp=sharing) 
+To test with your own data, please follow the tutorial here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PlhJDqeFmdUsY4gN_0CJumaiCl6jFrcN?usp=sharing) 
 
 ## <a name="contact"></a> Contact
 - Supervisor: [Tuan Nguyen](https://www.facebook.com/nttuan8)
