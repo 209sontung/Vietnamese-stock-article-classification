@@ -7,6 +7,7 @@ Text classification is a typical and important part of supervised learning, it h
 - We have utilized [PhoBERT](https://github.com/VinAIResearch/PhoBERT) to classify news articles into three categories `[negative,  neutral,  or positive]` based on their titles. 
 - The results demonstrated that after training with a dataset of over 1000  news samples from `CafeF.vn`, our model achiveved an accuracy up to 93% on the classification task.
 ## <a name="start"></a> Getting Started
+`The full tutorial can be found at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)`
 ### Installation
 ```python
 !pip install transformers
@@ -57,9 +58,7 @@ vocab.add_from_file("/content/PhoBERT_base_transformers/dict.txt")
 ```
 
 ## <a name="dataset"></a> Dataset
-To be able to use PhoBERT to evaluate and categorize the news' impact, we provided a dataset that included 1000 titles of financial articles taken from CafeF.vn and labeled them into three groups `[negative, neutral, or positive]` with the help of experts. The dataset contains 187 articles having a `negative impact`, 248 articles with `no impact`, and 565 articles with a `positive impact`. After that, we divided the dataset into three sets, 80% for training, 10% for validation and 10% for testing. The training set was used to train the model, validation set was utilized to tune the hyper-parameter. Finally, the result of model was evaluated on testing set.
-&NewLine;
-&NewLine;
+To be able to use PhoBERT to evaluate and categorize the news' impact, we provided a dataset that included 1000 titles of financial articles taken from CafeF.vn and labeled them into three groups `[negative, neutral, or positive]` with the help of experts. The dataset contains 187 articles having a `negative impact`, 248 articles with `no impact`, and 565 articles with a `positive impact`. After that, we divided the dataset into three sets, 80% for training, 10% for validation and 10% for testing. The training set was used to train the model, validation set was utilized to tune the hyper-parameter. Finally, the result of model was evaluated on testing set. Below are some examples of our dataset.
 
 |         Label       |   Title                                                                                                       |     Title (Eng)     | 
 |---------------------|:------------:                                                                                                     |:-----------:|
@@ -68,6 +67,7 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 |       Negative   [3]    | Khối ngoại tiếp tục bán ròng gần 630 tỷ đồng trong phiên 18/5                                                                                                        | Foreign investors continuedto net sell nearly VND 630billion in May 18    |
 
 
+## <a name="dataset"></a> Dataset
 
 
 
@@ -75,4 +75,8 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 
 
 
-The full tutorial can be found at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
+
+
+
+
+
