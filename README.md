@@ -5,11 +5,11 @@
 3. [Getting Started](#start)
    - [Installation](#install)
    - [Using VnCoreNLP's word segmenter to pre-process input raw texts](#vncorenlp)
-   - [Using PhoBERT with transformers](#phobert)
-4. [Usage](#usage)
-   - [Training](#train)
-   - [Testing](#test)
-5. [Contact](#Contact)
+   - [Downloading pre-trained PhoBERT](#phobert)
+
+4. [Loading PhoBERT `from transformers`](#load)
+5. [Testing](#test)
+6. [Contact](#Contact)
 # <a name="introduction"></a> Stock article title sentiment-based classification using PhoBERT
 <!-- <p align="center">
   <h1 align="center", id="intro">Stock article title sentiment-based classification using PhoBERT</h1>
@@ -60,7 +60,7 @@ The full tutorial can be found at [![Open In Colab](https://colab.research.googl
 from vncorenlp import VnCoreNLP
 rdrsegmenter = VnCoreNLP("/content/vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
 ```
-### <a name="phobert"></a> Using PhoBERT with `transformers`
+### <a name="phobert"></a> Downloading pre-trained PhoBERT
 ```python
 !wget https://public.vinai.io/PhoBERT_base_transformers.tar.gz
 !tar -xzvf PhoBERT_base_transformers.tar.gz
@@ -84,12 +84,25 @@ bpe = fastBPE(args)
 vocab = Dictionary()
 vocab.add_from_file("/content/PhoBERT_base_transformers/dict.txt")
 ```
-## <a name="usage"></a> Usage
 
-### <a name="train"></a> Training
+## <a name="load"></a> Loading PhoBERT `from transformers`
+```python
+from transformers import RobertaForSequenceClassification, RobertaConfig, AdamW
+
+config = RobertaConfig.from_pretrained(
+    "/content/PhoBERT_base_transformers/config.json", from_tf=False, num_labels = 3, output_hidden_states=False,
+)
+BERT_SA = RobertaForSequenceClassification.from_pretrained(
+    "/content/PhoBERT_base_transformers/model.bin",
+    config=config
+)
+
+BERT_SA.cuda()
+```
+
 The training details has been stated in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
 
-### <a name="test"></a> Testing 
+## <a name="test"></a> Testing 
 To test with your own data, follow the tutorial here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PlhJDqeFmdUsY4gN_0CJumaiCl6jFrcN?usp=sharing) 
 
 ## <a name="contact"></a> Contact
