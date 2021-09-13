@@ -1,8 +1,11 @@
-# Stock article title sentiment-based classification using PhoBERT
+<!-- # Stock article title sentiment-based classification using PhoBERT -->
+<p align="center">
+  <h1 align="center", id="intro">Stock article title sentiment-based classification using PhoBERT</h1>
+</p>
+
 ## <a name="introduction"></a> Introduction
 Text classification is a typical and important part of supervised learning, it has several applications in economics and attracted the attention of many stock market investors. For a long time, the news is frequently an unanticipated stock investment variable that instantaneously influences stock price directions.  In front of an enormous volume of news, investors are always searching for models that automatically categorize news quickly and accurately. Thus, we have utilized [PhoBERT](https://github.com/VinAIResearch/PhoBERT) to classify news articles into three categories `[negative,  neutral,  or positive]` based on their titles. The results demonstrated that after training with a dataset of over 1000  news samples from `CafeF.vn`, our model achiveved an accuracy up to 93% on the classification task.
 ## <a name="start"></a> Getting Started
-The full tutorial can be found at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
 ### Installation
 ```python
 !pip install transformers
@@ -51,3 +54,15 @@ bpe = fastBPE(args)
 vocab = Dictionary()
 vocab.add_from_file("/content/PhoBERT_base_transformers/dict.txt")
 ```
+
+## <a name="dataset"></a> Dataset
+To be able to use PhoBERT to evaluate and categorize the news' impact, we provided a dataset that included 1000 titles of financial articles taken from CafeF.vn and labeled them into three groups [negative, neutral, or positive] with the help of experts. The dataset contains 187 articles having a negative impact, 248 articles with no impact, and 565 articles with a positive impact. After that, we divided the dataset into three sets, 80\% for training, 10\% for validation and 10\% for testing. The training set was used to train the model, validation set was utilized to tune the hyper-parameter. Finally, the result of model was evaluated on testing set.
+
+
+
+
+
+
+
+
+The full tutorial can be found at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
