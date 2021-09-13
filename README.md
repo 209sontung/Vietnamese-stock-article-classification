@@ -1,15 +1,15 @@
 #### Table of contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
-   - [Data Preparing](#preparing)
-3. [Getting Started](#start)
+3. [Data Preparing](#preparing)
+4. [Getting Started](#start)
    - [Installation](#install)
    - [Using VnCoreNLP's word segmenter to pre-process input raw texts](#vncorenlp)
    - [Downloading pre-trained PhoBERT](#phobert)
 
-4. [Loading PhoBERT from transformers](#load)
-5. [Testing](#test)
-6. [Contact](#Contact)
+5. [Loading PhoBERT from transformers](#load)
+6. [Testing](#test)
+7. [Contact](#Contact)
 # <a name="introduction"></a> Stock article title sentiment-based classification using PhoBERT
 <!-- <p align="center">
   <h1 align="center", id="intro">Stock article title sentiment-based classification using PhoBERT</h1>
@@ -29,7 +29,7 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 |       Negative   [3]    | Khối ngoại tiếp tục bán ròng gần 630 tỷ đồng trong phiên 18/5                                                                                                        | Foreign investors continuedto net sell nearly VND 630billion in May 18    |
 
 
-### <a name="preparing"></a> Data preparing
+## <a name="preparing"></a> Data preparing
 The preprocessing procedure was separated into two phases. 
 - In Phase 1, first, we applied [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP)'s Named entity recognition to extract all the proper nouns and replace those words that signify location with the word `loc` or `name` for the organization name, stock code, or person's name. To avoid any confusion when the model predicts, the punctuation was then removed, hence increasing the model's accuracy. Considering the fact that white space is also utilized to separate syllables that make up words in `Vietnamese`, in the last step of Phase 1, we utilized `Rdrsegmenter` from `VnCoreNLP` to separate words for input data. The title needed to be tokenized as an input for the PhoBERT model, therefore we utilized `BPE tokenizer`.
 - In Phase 2, we had the symbol vocabulary with the character vocabulary, and each word was represented as a sequence of characters with a unique end-of-word symbol `</s>` that allowed us to recover the original tokenization after translation. In example, we counted all symbol pairs iteratively and replaced each occurrence of the most common pair ("A", "B") with the new symbol "AB". Each merge process generates a new symbol that represents an n-gram of characters. `BPE` does not require a shortlist because frequently occurring character n-grams (or complete words) are finally combined into a single symbol. Thus, the amount of the final symbol vocabulary is equal to the original vocabulary.
