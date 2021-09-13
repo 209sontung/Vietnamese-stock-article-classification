@@ -1,7 +1,7 @@
-<!-- # Stock article title sentiment-based classification using PhoBERT -->
-<p align="center">
+# Stock article title sentiment-based classification using PhoBERT
+<!-- <p align="center">
   <h1 align="center", id="intro">Stock article title sentiment-based classification using PhoBERT</h1>
-</p>
+</p> -->
 
 Text classification is a typical and important part of supervised learning, it has several applications in economics and attracted the attention of many stock market investors. For a long time, the news is frequently an unanticipated stock investment variable that instantaneously influences stock price directions.  In front of an enormous volume of news, investors are always searching for models that automatically categorize news quickly and accurately. Thus, in this project:
 - We have utilized [PhoBERT](https://github.com/VinAIResearch/PhoBERT) to classify news articles into three categories `[negative,  neutral,  or positive]` based on their titles. 
