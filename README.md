@@ -21,3 +21,6 @@ The full tutorial can be found at [![Open In Colab](https://colab.research.googl
 !mv vi-vocab vncorenlp/models/wordsegmenter/
 !mv wordsegmenter.rdr vncorenlp/models/wordsegmenter/
 ```
+
+#### Using VnCoreNLP's word segmenter to pre-process input raw texts
+
