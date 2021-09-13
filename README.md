@@ -7,7 +7,7 @@ Text classification is a typical and important part of supervised learning, it h
 - We have utilized [PhoBERT](https://github.com/VinAIResearch/PhoBERT) to classify news articles into three categories `[negative,  neutral,  or positive]` based on their titles. 
 - The results demonstrated that after training with a dataset of over 1000  news samples from `CafeF.vn`, our model achiveved an accuracy up to 93% on the classification task.
 ## <a name="start"></a> Getting Started
-`The full tutorial can be found at` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
+The full tutorial can be found at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
 ### Installation
 ```python
 !pip install transformers
@@ -67,7 +67,8 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 |       Negative   [3]    | Khối ngoại tiếp tục bán ròng gần 630 tỷ đồng trong phiên 18/5                                                                                                        | Foreign investors continuedto net sell nearly VND 630billion in May 18    |
 
 
-## <a name="dataset"></a> Dataset
+## <a name="preparing"></a> Data preparing
+The preprocessing procedure was separated into two phases. In Phase 1, first, we applied [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP)'s Named entity recognition to extract all the proper nouns and replace those words that signify location with the word "loc" or "name" for the organization name, stock code, or person's name. To avoid any confusion when the model predicts, the punctuation was then removed, hence increasing the model's accuracy. Considering the fact that white space is also utilized to separate syllables that make up words in Vietnamese, in the last step of Phase 1, we utilized Rdrsegmenter from VnCoreNLP to separate words for input data
 
 
 
