@@ -7,7 +7,7 @@
    - [Using VnCoreNLP's word segmenter to pre-process input raw texts](#vncorenlp)
    - [Downloading pre-trained PhoBERT](#phobert)
 
-4. [Loading PhoBERT `from transformers`](#load)
+4. [Loading PhoBERT from transformers](#load)
 5. [Testing](#test)
 6. [Contact](#Contact)
 # <a name="introduction"></a> Stock article title sentiment-based classification using PhoBERT
