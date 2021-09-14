@@ -26,7 +26,7 @@ To be able to use PhoBERT to evaluate and categorize the news' impact, we provid
 |---------------------|:------------:                                                                                                     |:-----------:|
 |       Positive   [1]      | Vĩnh Hoàn (VHC): Doanh thu tháng 4/2021 đạt 800 tỷ đồng, các thị trường xuất khẩu đồng loạt tăng tốt              | Vinh Hoan (VHC): April 4/2021 revenue reached VND 800 billion, export markets simultaneouslyincreased well     |
 |       Neutral   [2]     | Lịch sự kiện và tin vắn chứng khoán ngày 17/5                                                                                                         | Calendar of events and shortstocks news on May 17     |
-|       Negative   [3]    | Khối ngoại tiếp tục bán ròng gần 630 tỷ đồng trong phiên 18/5                                                                                                        | Foreign investors continuedto net sell nearly VND 630billion in May 18    |
+|       Negative   [3]    | Khối ngoại tiếp tục bán ròng gần 630 tỷ đồng trong phiên 18/5                                                                                                        | Foreign investors continuedto net sell nearly VND 630 billion in May 18    |
 
 
 ## <a name="preparing"></a> Data preparing
