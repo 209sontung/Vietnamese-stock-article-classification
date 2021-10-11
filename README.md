@@ -103,7 +103,7 @@ BERT_SA.cuda()
 The training details has been stated in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7PspANkaZ4WXoQPvAUD7-Uw47baWb83?usp=sharing)
 
 ## <a name="test"></a> Testing 
-To test with your own data, please follow the tutorial here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i_2cWsnavw01Q0wft6d9tVbIF1ja4fSn?usp=sharing) 
+To test with your own data, please follow the tutorial here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cA4bRmmLXIs-giFpapq2c7b6Mp3v-uwo?usp=sharing) 
 
 ## <a name="contact"></a> Contact
 - Supervisor: [Tuan Nguyen](https://www.facebook.com/nttuan8)
